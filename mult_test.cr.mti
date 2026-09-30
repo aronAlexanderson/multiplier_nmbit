@@ -1,0 +1,78 @@
+/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module mult_mnbit
+
+Top level modules:
+	mult_mnbit
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/and2_delay.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/and2_delay.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module and2_delay
+
+Top level modules:
+	and2_delay
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1_Nbit.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1_Nbit.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module mux2to1_Nbit
+
+Top level modules:
+	mux2to1_Nbit
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit_signed.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit_signed.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module mult_mnbit_signed
+
+Top level modules:
+	mult_mnbit_signed
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/xor2_delay.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/xor2_delay.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module xor2_delay
+
+Top level modules:
+	xor2_delay
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/twos_complementor_Nbit.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/twos_complementor_Nbit.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module twos_complementor_Nbit
+
+Top level modules:
+	twos_complementor_Nbit
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/tb_Mult_MNbit_signed.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/tb_Mult_MNbit_signed.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module tb_mult_MNbit_signed
+
+Top level modules:
+	tb_mult_MNbit_signed
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/nand2_delay.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/nand2_delay.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module nand2_delay
+
+Top level modules:
+	nand2_delay
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/RCA_nbit.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/RCA_nbit.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module RCA_nbit
+
+Top level modules:
+	RCA_nbit
+
+} {} {}} /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/full_adder.sv {1 {vlog -work work -vopt -sv -stats=none /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/full_adder.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}}

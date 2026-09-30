@@ -1,0 +1,293 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f vlog 2022.4 2022.10, Oct 18 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/aron/Skola/Verilog_kurs/Aron_lib/lab1_structural/basic_logic
+T_opt
+!s110 1790594015
+VW43JXn^VBTBb?fAc?G=UA0
+04 20 4 work tb_mult_MNbit_signed fast 0
+=1-000ae431a4f1-6aba4bdf-1eeef-40ff0
+R0
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2022.4;75
+R1
+vand2_delay
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1790664526
+!i10b 1
+!s100 eV=4TcV<CTGKJM?onRdTH2
+Ie0ZJC3U46WVcghdAT4Ke43
+S1
+Z5 d/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier
+Z6 w1790592916
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/and2_delay.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/and2_delay.sv
+!i122 11
+L0 2 13
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2022.4;75
+r1
+!s85 0
+31
+Z9 !s108 1790664526.000000
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/and2_delay.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/and2_delay.sv|
+!i113 0
+Z10 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfull_adder
+R3
+R4
+!i10b 1
+!s100 mX7>[dWmOEekKcGh;J>bL3
+I2z30_:Z0EF98IVO0]O35D0
+S1
+R5
+R6
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/full_adder.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/full_adder.sv
+!i122 12
+L0 1 8
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/full_adder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/full_adder.sv|
+!i113 0
+R10
+R2
+vmult_mnbit
+R3
+R4
+!i10b 1
+!s100 f86QBHJ?b=cGgh3LnWol[2
+IMHA^RdZ5eIU^Y18B:@ZSM2
+S1
+R5
+R6
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit.sv
+!i122 13
+L0 1 53
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit.sv|
+!i113 0
+R10
+R2
+vmult_mnbit_signed
+R3
+R4
+!i10b 1
+!s100 FaM32z^]ccR1ACWk9PU>C0
+I2egfY;OXTJMPdJ5jhUV8>0
+S1
+R5
+w1790593927
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit_signed.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit_signed.sv
+!i122 14
+L0 1 68
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit_signed.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mult_mnbit_signed.sv|
+!i113 0
+R10
+R2
+vmux2to1
+R3
+R4
+!i10b 1
+!s100 TBz>0A0m`iNgN?6]P@:9H2
+IT?gFHGHPU46ddSehD1G2[0
+S1
+R5
+R6
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1.sv
+!i122 15
+L0 1 35
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1.sv|
+!i113 0
+R10
+R2
+vmux2to1_Nbit
+R3
+R4
+!i10b 1
+!s100 9iMQ4EF>Ak>]oTjQAE?3Q2
+I<z?aMDL;5EigcW;CdzSdR3
+S1
+R5
+R6
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1_Nbit.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1_Nbit.sv
+!i122 16
+L0 1 19
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1_Nbit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/mux2to1_Nbit.sv|
+!i113 0
+R10
+R2
+nmux2to1_@nbit
+vnand2_delay
+R3
+R4
+!i10b 1
+!s100 f6iS4NMnh5Z5HS:z?IK@K1
+I^QD_jBe@T;FO6Fdao]_Ka2
+S1
+R5
+R6
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/nand2_delay.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/nand2_delay.sv
+!i122 17
+L0 3 10
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/nand2_delay.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/nand2_delay.sv|
+!i113 0
+R10
+R2
+vRCA_nbit
+R3
+R4
+!i10b 1
+!s100 380=jHiRJ_MkI7G7H>W6f1
+ImiCdB4Jb36TV9QKPk@czI0
+S1
+R5
+R6
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/RCA_nbit.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/RCA_nbit.sv
+!i122 18
+L0 1 25
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/RCA_nbit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/RCA_nbit.sv|
+!i113 0
+R10
+R2
+n@r@c@a_nbit
+vtb_mult_MNbit_signed
+R3
+R4
+!i10b 1
+!s100 2XQ3m]cj4[?Y5:@j?`UW?3
+IngNM`CCeC]=DC?O@IDB7?2
+S1
+R5
+w1790593631
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/tb_Mult_MNbit_signed.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/tb_Mult_MNbit_signed.sv
+!i122 19
+L0 3 33
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/tb_Mult_MNbit_signed.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/tb_Mult_MNbit_signed.sv|
+!i113 0
+R10
+R2
+ntb_mult_@m@nbit_signed
+vtwos_complementor_Nbit
+R3
+R4
+!i10b 1
+!s100 ao3A;P5QR0jTG;=CK?0493
+I4:n:k1ZCC>A=3:G;G7cR32
+S1
+R5
+w1790593497
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/twos_complementor_Nbit.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/twos_complementor_Nbit.sv
+!i122 20
+L0 1 29
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/twos_complementor_Nbit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/twos_complementor_Nbit.sv|
+!i113 0
+R10
+R2
+ntwos_complementor_@nbit
+vxor2_delay
+R3
+R4
+!i10b 1
+!s100 @Z3e2oPXF9o;ZN>Z<fOmL3
+IF4==O?h]156cn@?`In^6;1
+S1
+R5
+R6
+8/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/xor2_delay.sv
+F/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/xor2_delay.sv
+!i122 21
+L0 2 17
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/xor2_delay.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/aron/Skola/Verilog_kurs/Aron_lib/lab3/multiplier/xor2_delay.sv|
+!i113 0
+R10
+R2
