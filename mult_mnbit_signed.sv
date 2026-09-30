@@ -25,7 +25,7 @@ module mult_mnbit_signed #(parameter M = 4, parameter N = 4) (
         .cin(1)
         );
 
-    twos_complementor_Nbit #(M) comp_B (
+    twos_complementor_Nbit #(N) comp_B (
         .B(B),
         .BC(B_complement),
         .cin(1)
